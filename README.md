@@ -165,7 +165,7 @@ The notebook automatically summarizes important findings from the dataset, inclu
 ## Project Structure
 
 ```text
-svgVOIS_for_Tech_Data_Analytics_Final_Project/
+VOIS_for_Tech_Data_Analytics_Final_Project/
 │
 ├── README.md
 ├── requirements.txt
